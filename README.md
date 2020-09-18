@@ -1,2 +1,2 @@
-# AOOP_asteroids
-Final project for the Advanced Object Oriented Programming course
+To run this, execute `mvn install` and run the .jar you find in the target
+folder
